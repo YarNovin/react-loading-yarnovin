@@ -3,4 +3,4 @@
 # Todo List 
 - [x] Upload Project
 - [ ] offsetChar Animation and Opacity 
-- [ ] Compelet 
+- [ ] Complete 
