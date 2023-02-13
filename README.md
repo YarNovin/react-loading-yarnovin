@@ -1,6 +1,6 @@
 # react-loading-yarnovin
 
 # Todo List 
-- [ ] Upload Project
+- [x] Upload Project
 - [ ] offsetChar Animation and Opacity 
 - [ ] Compelet 
