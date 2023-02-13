@@ -1,10 +1,11 @@
 import React from 'react';
-import YarnovinLoading from './components/loading/loading';
+import YarnovinLoading from './components/loading';
+
 
 function App() {
   return (
     <>
-      <YarnovinLoading mode='OffsetChar' />
+      <YarnovinLoading mode='CircleBarLogo' />
     </>
   );
 }
