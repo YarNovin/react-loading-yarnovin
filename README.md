@@ -6,6 +6,6 @@
 - [ ] Complete 
 
 # Animations
-- [ ] OffsetChar  
-- [ ] OpacityLogo
+- [x] OffsetChar  
+- [x] OpacityLogo
 - [ ] CircleLogo
