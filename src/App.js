@@ -1,7 +1,6 @@
 import React from 'react';
 import YarnovinLoading from './components/loading';
 
-
 function App() {
   return (
     <>
